@@ -9,7 +9,7 @@ SDK oficial da [WPPAPI](https://wpp-api.com?utm_source=github&utm_medium=sdk) �
 ## Instalação
 
 ```bash
-npm install github:iproute-tecnologia/wppapi-sdk-js
+npm install wppapi-sdk
 ```
 
 Ou copie o `index.js` — é um arquivo único, sem dependências.
