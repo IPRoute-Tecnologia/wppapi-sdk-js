@@ -3,7 +3,7 @@
 SDK oficial da [WPPAPI](https://wpp-api.com?utm_source=github&utm_medium=sdk) — API WhatsApp multi-tenant, gerenciada e dev-friendly. Envie e receba mensagens de WhatsApp via REST, com webhooks assinados (HMAC), integração nativa com Chatwoot e painel self-service.
 
 - **Zero dependências** — usa `fetch` nativo (browser e Node 18+)
-- **Trial de 3 dias grátis, sem cartão** → [criar conta](https://app.wpp-api.com/signup?utm_source=github&utm_medium=sdk)
+- **Trial de 3 dias grátis, sem cartão** → [criar conta](https://app.wpp-api.com/register?utm_source=github&utm_medium=sdk)
 - Base da API: `https://api.wpp-api.com`
 
 ## Instalação
