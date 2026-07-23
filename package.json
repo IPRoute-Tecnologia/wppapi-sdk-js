@@ -1,0 +1,37 @@
+{
+  "name": "wppapi-sdk",
+  "version": "0.2.0",
+  "description": "SDK JavaScript oficial da WPPAPI — API WhatsApp multi-tenant (envio de texto e mídia, status, webhooks). Zero dependências, browser e Node 18+.",
+  "keywords": [
+    "whatsapp",
+    "whatsapp-api",
+    "api-whatsapp",
+    "wppapi",
+    "chatbot",
+    "automacao",
+    "n8n",
+    "chatwoot"
+  ],
+  "homepage": "https://wpp-api.com?utm_source=npm&utm_medium=sdk",
+  "bugs": {
+    "url": "https://github.com/iproute-tecnologia/wppapi-sdk-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iproute-tecnologia/wppapi-sdk-js.git"
+  },
+  "license": "MIT",
+  "author": "IPRoute Tecnologia <contato@wpp-api.com>",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
